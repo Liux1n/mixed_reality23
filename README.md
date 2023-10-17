@@ -22,10 +22,15 @@ python download_model.py
 ```
 
 
-Download dstt pre-trained model into checkpoints folder in dstt folder:
+Download dstt pre-trained model https://drive.google.com/file/d/1Fq3seV2X6dthbjdw4RTNyVd4HH2WlL7g/view into checkpoints folder in dstt folder:
 ```
 cd dstt
 mkdir checkpoints
 ```
-https://drive.google.com/file/d/1Fq3seV2X6dthbjdw4RTNyVd4HH2WlL7g/view
+
+To run:
+
+```
+python interactive_gui.py
+```
 
